@@ -1,4 +1,4 @@
-# 🧠 SmartHire AI – Resume Screening Tool
+# 🧠 SmartHire AI – Resume Screener
 
 > An AI-powered resume screening tool that ranks candidate resumes based on their relevance to a job description using NLP and semantic similarity.
 
