@@ -77,7 +77,6 @@ Response:
       "filename": "sample_resume1.pdf",
       "score": 89.45
     },
-    ...
   ]
 }
 ```
