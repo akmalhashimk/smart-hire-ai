@@ -1,4 +1,4 @@
-// smart-hire-ai/frontend/src/App.jsx
+
 import React, { useState } from 'react';
 import axios from 'axios';
 import { FileUpload } from './components/FileUpload';
