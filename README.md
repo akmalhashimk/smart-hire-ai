@@ -12,7 +12,7 @@ SmartHire AI is a scalable, modular application that:
 * Uses **TF-IDF + cosine similarity** to rank resumes
 * Returns a **score out of 100** for each resume’s match
 * Built with **FastAPI**, Python, and NLP libraries
-* (Optional) Frontend with **React + Tailwind CSS**
+* Frontend with **React + Tailwind CSS**
 
 This project simulates a **real-world hiring engine**, ideal for HR tools, job boards, and automated applicant tracking systems.
 
@@ -55,7 +55,7 @@ smart-hire-ai/
 * ✅ Upload or paste job description
 * ✅ Ranks resumes based on similarity
 * ✅ Outputs score + filename
-* 🖜️ Frontend with drag-and-drop UI
+* ✅ Frontend with drag-and-drop UI
 * 🖜️ LLM-based explanation of fit (future)
 
 ---
